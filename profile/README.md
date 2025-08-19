@@ -1,6 +1,6 @@
 # Assetis
 
-**Operational assets management suite for small and mid-sized businesses.**
+**Operational assets management suite for your company.**
 
 Assetis is a growing multi-tenant ecosystem of modular software tools designed to help businesses efficiently manage their operational infrastructure.
 
@@ -8,7 +8,7 @@ Assetis is a growing multi-tenant ecosystem of modular software tools designed t
 
 - **FleetManager** – Vehicle and fleet operations tracking [Check out ->](https://assetis.pl/fleetmanager)
 
-**4 More** modules are coming soon.
+**5 More** modules are coming soon.
 
 ## 🎯 Our Goal
 
