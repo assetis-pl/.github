@@ -6,7 +6,7 @@ Assetis is a growing multi-tenant ecosystem of modular software tools designed t
 
 ## Products (Modules)
 
-- **FleetManager** – Vehicle and fleet operations tracking [Check out ->](https://assetis.pl/fleetmanager)
+- **FleetManager** – Vehicle and fleet operations tracking [Check it out ->](https://assetis.pl/fleetmanager)
 
 **5 More** modules are coming soon.
 
